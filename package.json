@@ -1,0 +1,21 @@
+{
+    "name": "daobeam-tweaked",
+    "displayName": "Daobeam tweaked",
+    "description": "A fork of the excellent Daobeam theme, with some ad",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Daobeam tweaked",
+                "uiTheme": "vs",
+                "path": "./themes/Daobeam tweaked-color-theme.json"
+            }
+        ]
+    }
+}
